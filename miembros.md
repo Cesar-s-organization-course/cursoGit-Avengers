@@ -12,6 +12,7 @@
 * Luke Cage
 * QuickSilver
 * Scarlet Witch
+* Spider Man
 * Spider Woman
 * Thor
 * Vision
