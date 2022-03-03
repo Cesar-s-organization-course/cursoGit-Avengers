@@ -1,6 +1,6 @@
 ## Miembros
 
-* Black panther
+* Black Panther
 * Black Widow
 * Capitán America
 * Capitán Marvel
